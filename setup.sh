@@ -1,4 +1,4 @@
-mkdir -p ~/.streamlit/credentials.toml
+mkdir -p ~/.streamlit/
 echo "\
 [server]\n\
 port = $PORT\n\
